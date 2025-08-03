@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+requests
+pillow
+pyautogui
+opencv-python
+pygetwindow
+pyautogui
+pyaudio
+py-cpuinfo
+psutil
